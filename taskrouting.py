@@ -11,7 +11,7 @@ class TaskRouter(nn.Module):
         Args:
         unit_count  (int): Number of input channels going into the Task Routing layer.
         task_count  (int): Number of tasks. (IN STL it applies to number of output classes)
-        sigma (int): Number of knocked out units per task.
+        sigma (int): Ratio for routed units per task.
     """
 
     def __init__(self, unit_count, task_count, sigma, name="TaskRouter"):
