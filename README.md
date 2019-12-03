@@ -1,11 +1,11 @@
 # Many Task Learning With Task Routing - [[ICCV'19](http://iccv2019.thecvf.com/) Oral]
 
-This is the official implementation repo for our 2019 ICCV paper [Many Task Learning With Task Routing](https://arxiv.org/abs/1903.12117):
+This is the official implementation repo for our 2019 ICCV paper [Many Task Learning With Task Routing](http://openaccess.thecvf.com/content_ICCV_2019/html/Strezoski_Many_Task_Learning_With_Task_Routing_ICCV_2019_paper.html):
 
 **Many Task Learning With Task Routing**  
 [Gjorgji Strezoski](https://staff.fnwi.uva.nl/g.strezoski/), [Nanne van Noord](https://nanne.github.io/), [Marcel Worring](https://staff.fnwi.uva.nl/m.worring/)  
 International Conference on Computer Vision ([ICCV](http://iccv2019.thecvf.com/)), 2019 [Oral]  
-[[ArXiv](https://arxiv.org/abs/1903.12117)] [[Web](https://staff.fnwi.uva.nl/g.strezoski/post/iccv/)]
+[[CVF](http://openaccess.thecvf.com/content_ICCV_2019/html/Strezoski_Many_Task_Learning_With_Task_Routing_ICCV_2019_paper.html)]  [[ArXiv](https://arxiv.org/abs/1903.12117)] [[Web](https://staff.fnwi.uva.nl/g.strezoski/post/iccv/)]
 
 It contains the Task Routing Layer implentation, its integration in existing models and usage instructions.
 
